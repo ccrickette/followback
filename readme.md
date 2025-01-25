@@ -44,7 +44,7 @@ Followback only works with the follower and following data you download directly
 
 ## Prerequisites
 
-- Python 3.x
+- Go compiler
 - Access to your Instagram follower data (as described above)
 
 ## License
