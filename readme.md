@@ -19,6 +19,7 @@ Instagram users often want to know who isn't following them back, but most apps 
    - Select "Some of your information" (we only need your followers list, nothing else)
    - Under the "Connections" header, choose "Followers and Following"
    - Make sure to select "All Time" to get the full list of your followers and following history.
+   - Make sure you select media quality Medium, and format JSON!
    - Click "Request Download." It may take some time for Meta (Instagram's parent company) to prepare your data.
 
 2. **Download and Extract the Zip File**
